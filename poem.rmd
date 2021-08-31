@@ -24,3 +24,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+Set me whereas the sun doth parch the green  
+Or where his beams may not dissolve the ice;  
+In temperate heat where he is felt and seen;  
+With proud people, in presence sad and wise;  
+Set me in base, or yet in high degree,  
+In long night or in the shortest day,  
+In clear weather or where mists thickest be,  
+In lost youth, or when my hairs are grey …  
